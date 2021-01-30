@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="x-ua-compatible" content="IE=11">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>SVG sample</title>
+    <style type="text/css">
+    </style>
+</head>
+<body>
+    <div>
+	<SVG_HERE>
+    </div>
+</body>
+</html>
